@@ -1,4 +1,4 @@
-# Apple-Financial-Ration-Analysis
+# Apple-Financial-Ratio-Analysis
 
 ## Project Overview
 This project evaluates the financial performance and health of Apple Inc. by calculating and analyzing key financial ratios across multiple years. The analysis focuses on profitability, liquidity, efficiency, and leverage to identify trends and assess the company’s operational and financial strength.
